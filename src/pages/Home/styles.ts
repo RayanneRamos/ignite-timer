@@ -70,7 +70,7 @@ export const CountdownContainer = styled.div`
   gap: 1rem;
 
   span {
-    background: ${(props) => props.theme['green-700']};
+    background: ${(props) => props.theme['gray-700']};
     padding: 2rem 1rem;
     border-radius: 8px;
   }
