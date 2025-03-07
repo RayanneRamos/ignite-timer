@@ -17,6 +17,13 @@
 [Ignite Timer](https://ignite-timer-seven-wine.vercel.app/) é o segundo projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um timer no estilo do 
 pomodoro para você marcar os ciclos de estudos.
 
+## 🌟 Funcionalidades
+
+1. **Ciclos de estudo Pomodoro**: O usuário pode iniciar um ciclo de 25 minutos de estudo seguido por uma pausa de 5 minutos. 
+2. **Contagem regressiva**: O timer exibe uma contagem regressiva visual para que o usuário saiba o tempo restante para cada ciclo. 
+3. **Configuração de ciclos**: Permite que o usuário configure o número de ciclos e a duração das pausas.
+4. **Histórico**: Acompanhe quantos ciclos de estudo foram completados.
+
 ## 🧪 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
