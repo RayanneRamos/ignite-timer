@@ -24,7 +24,7 @@ pomodoro para você marcar os ciclos de estudos.
 3. **Configuração de ciclos**: Permite que o usuário configure o número de ciclos e a duração das pausas.
 4. **Histórico**: Acompanhe quantos ciclos de estudo foram completados.
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
